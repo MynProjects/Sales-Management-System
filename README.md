@@ -9,7 +9,7 @@ This is an application for managing retail shops.
 # How to run
 Run the sms_startup_script.py script.
 
-# Screenshots
+# ScreenShots
 ![ScreenShot](https://i.postimg.cc/FFctM2Vs/Screenshot-1.png)
 ![ScreenShot](https://i.postimg.cc/FFctM2Vs/Screenshot-1.png)
 ![ScreenShot](https://i.postimg.cc/m2sxB8m3/Screenshot-2.png)
