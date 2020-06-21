@@ -7,7 +7,9 @@ This is an application for managing retail shops.
 3. Functional offline with timed automatic backup capabilities.
 
 # How to run
-Run the sms_startup_script.py script.
+1. Run this command in the project directory:
+    pip install -r requirements.txt
+2. Run the sms_startup_script.py script.
 
 # ScreenShots
 ![ScreenShot](https://i.postimg.cc/FFctM2Vs/Screenshot-1.png)
